@@ -1,4 +1,7 @@
-# React + Vite
+# React + Vite Background Color Changer
+
+![127 0 0 1_5173_](https://github.com/mukeshpal134/React-Projects/assets/75943147/2114018b-b4cc-4e41-b884-2a0bc61d08dd)
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

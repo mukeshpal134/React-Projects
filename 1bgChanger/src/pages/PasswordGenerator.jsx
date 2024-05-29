@@ -35,7 +35,9 @@ function PasswordGenerator() {
   }, [length, numberAllowed, charAllowed, passwordGenerator]);
 
   return (
-    <div className="w-full h-screen" style={{ backgroundColor: "lavender" }}>
+    <div className="w-full h-screen dark:bg-black bg-[#e6e6fa] " 
+    // style={{ backgroundColor: "lavender" }}
+    >
       <div className="flex justify-center inset-x-0">
       
 

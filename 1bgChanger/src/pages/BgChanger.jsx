@@ -10,7 +10,7 @@ function BgChanger() {
       style={{ backgroundColor: color }}
     >
       <div className="fixed flex flex-wrap justify-center rounded bottom-12 gap-3 inset-x-0 px-3">
-        <div className="flex justify-center rounded bg-white px-4 py-2 gap-3 shadow-lg">
+        <div className="flex justify-center rounded bg-white px-4 py-2 gap-3 shadow-lg dark:bg-gray-800 dark:border-gray-700">
         {/* <Link className="px-5 py-3 bg-[#99f6e4] rounded" to="/">Go Back To Home</Link> */}
 
           <button
